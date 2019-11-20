@@ -5,3 +5,4 @@ function solve(input) {
     console.log(area.toFixed(2));
     console.log(perimeter.toFixed(2));
 }
+
