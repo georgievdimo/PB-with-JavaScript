@@ -1,4 +1,4 @@
-
+//
 
 function solve(input) {
   let number = +input.shift();
