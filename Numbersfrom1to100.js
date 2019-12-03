@@ -5,4 +5,3 @@ function solve() {
     console.log(i);
   }
 }
-
