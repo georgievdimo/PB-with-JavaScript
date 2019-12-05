@@ -6,3 +6,4 @@ function solve(input) {
     console.log(i);
   }
 }
+
