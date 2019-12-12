@@ -1,3 +1,5 @@
+//
+
 function solve(input) {
   let foodMoney = +input.shift();
   let suv = +input.shift();
