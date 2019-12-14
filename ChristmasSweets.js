@@ -15,3 +15,4 @@ function solve(input) {
     biscuitsKilos * biscuitsPrice;
   console.log(total.toFixed(2));
 }
+
