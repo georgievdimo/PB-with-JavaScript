@@ -11,3 +11,4 @@ function solve(input) {
   console.log(`She can save ${amountToSavePercent.toFixed(2)}%`);
   console.log(amountToSaveAllMonths.toFixed(2));
 }
+
